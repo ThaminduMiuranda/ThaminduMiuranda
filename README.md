@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 </p>
 <hr>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThaminduMiuranda&theme=dark&layout=compact" alt="ThaminduMiuranda"/>
+  <br/>
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThaminduMiuranda&show_icons=true&locale=en&theme=dark" alt="Thamindu's top langs"/>
   <!---<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThaminduMiuranda&show_icons=true&locale=en&theme=dark" alt="ThaminduMiuranda"/>--->
 </p>
 <hr>
