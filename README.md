@@ -30,7 +30,25 @@ Here are some ideas to get you started:
 <h3 align="center">Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,tailwind,git,mysql,java,py" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,mysql" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py" />
   </a>
 </p>
 
